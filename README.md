@@ -2,7 +2,7 @@
 
 Arm Assembly &amp; Embedded Systems
 
-Labs taken during Winter 2019 in ARM Cortex-M4
+Labs taken during Winter 2019 with ARM Cortex-M4
 
 Lab 1: Convert signed and unsigned numbers between decimal and binary, using two's complement (in C).
 
